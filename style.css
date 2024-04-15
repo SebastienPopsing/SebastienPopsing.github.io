@@ -162,8 +162,8 @@ header {
 #incoming_event {
 font-size: 50px;
 text-align: center;
-margin-top: 150px;
-margin-bottom: 100px;
+margin-top: 200px;
+margin-bottom: 150px;
 transition: 0.3s;
 }
 
@@ -187,7 +187,7 @@ color:#2e40e8;
             text-align: center;
             border: 0;
             border-radius: 10%;
-    max-width: 900px;
+    max-width: 250px;
         }
         
 
@@ -224,11 +224,14 @@ color:#2e40e8;
 }
 
 footer{
-    background: red;
-    margin-top: 100px;
-    padding: 20px;
+    display: flex;
+    align-items: center;
+    background: #808080;
+    padding: 10px;
+    margin-top: 300px;
 }
 #neobrain_footer{
     height: auto;
-    width: 250px;
+    width: 150px;
+    margin: auto;
 }
