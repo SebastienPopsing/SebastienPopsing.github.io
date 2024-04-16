@@ -220,7 +220,7 @@ header {
     border-radius: 20px;
     text-decoration: none;
     transition: 0.3s;
-    margin-top: auto; /* Ajout de cette propriété pour aligner le bouton en bas */
+    margin-top: auto;
 }
 
 .more_button:hover{
